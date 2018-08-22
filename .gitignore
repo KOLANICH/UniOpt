@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+./AutoXGBoost.egg-info
+./build
+./dist
+./.eggs
+/tests/models/*.modeltxt
+/tests/models/*.json
+/tests/models/*.modeljson
+/tests/models/*.model
+/tests/models/*.py
